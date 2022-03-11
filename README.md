@@ -11,6 +11,19 @@ Including RAPid and some traditional algorithms (checkboard, horizontal expansio
 'Traditional_methods': Four different traditional algorithms.  
 
 
+## Installation
+**Requirements**:
+The code should be able to work as long as you have the following packages:
+- PyTorch >= 1.0. 
+- numpy
+- opencv-python  
+- PIL
+- shutil
+- imutils
+- tqdm
+- pycocotools
+- tensorboard (optional, only for training)  
+
 ## Run RAPiD algorithm Demo (Using single image)  
 
 step1. Put source image in folder 'input_images'.  
@@ -26,5 +39,6 @@ step2. Modify the video path and name in `video_demo_RAPiD.py` and run it.
 
 ## Run Traditional algorithms about distortion correction  
 
-step1. Put source image in folder 'input_images'.
-step2. Modify the image path and name in corresponding algorithm file (`checkboard_calibrate.py`, `horizontal_expansion_calibrate.py`, `latitude_calibrate.py`, `longitude_calibrate.py`)
+step1. Put source image in folder 'input_images'.  
+step2. Modify the image path and name in corresponding algorithm file (`checkboard_calibrate.py`, `horizontal_expansion_calibrate.py`, `latitude_calibrate.py`, `longitude_calibrate.py`)  
+step3. View the output image in corresponding subfolder under folder 'output_images'
