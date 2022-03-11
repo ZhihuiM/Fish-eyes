@@ -1,7 +1,7 @@
 # Fish-eyes
 
 We collected some algorithms for fisheye image distortion correction and human detection on fisheye images .  
-Including RAPiD (human detection on fisheye images) and some traditional algorithms about distortion correction include checkboard, horizontal expansion, latitude, longitude.
+Including RAPiD algorithms about human detection on fisheye images and some traditional algorithms about distortion correction include checkboard, horizontal expansion, latitude, longitude.
 
 ## Folder Structure
 
