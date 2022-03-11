@@ -9,7 +9,7 @@ detector = Detector(model_name='rapid',
                     weights_path='./weights/pL1_MWHB1024_Mar11_4000.ckpt',
                     use_cuda=True)
 
-cap = cv2.VideoCapture('D01_20220125172918.mp4')
+cap = cv2.VideoCapture('./video/D01_20220125172918.mp4')
 
 frameCount=0
 numFrames2Skip=5000
