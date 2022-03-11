@@ -33,7 +33,7 @@ step4. View the output image in folder 'output_images/output_RAPiD'.
 
 
 ## Run RAPiD algorithm Demo (Using video)  
-step1. Download the RAPiD [pre-trained network weights](https://drive.google.com/file/d/1NX3EJMFViNu9nMuNRFSygjKzGhAfLBmL/view?usp=sharing), which is trained on COCO, MW-R and HABBOF, and place it under the RAPiD/weights folder.(If you have downloaded it before, skip this step.)
+step1. Download the RAPiD [pre-trained network weights](https://drive.google.com/file/d/1NX3EJMFViNu9nMuNRFSygjKzGhAfLBmL/view?usp=sharing), which is trained on COCO, MW-R and HABBOF, and place it under the RAPiD/weights folder.(If you have downloaded it before, skip this step.)  
 step2. Put source video in folder 'video'.  
 step3. Modify the video path and name in `video_demo_RAPiD.py` and run it.  
 
