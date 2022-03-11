@@ -28,7 +28,7 @@ The code should be able to work as long as you have the following packages:
 
 step1. Put source image in folder 'input_images'.  
 step2. Modify the image path and name in `example.py` and run it.  
-step3. View the output image in folder 'output_images/output_RAPiD'  
+step3. View the output image in folder 'output_images/output_RAPiD'.  
 
 
 ## Run RAPiD algorithm Demo (Using video)  
@@ -40,5 +40,5 @@ step2. Modify the video path and name in `video_demo_RAPiD.py` and run it.
 ## Run Traditional algorithms about distortion correction  
 
 step1. Put source image in folder 'input_images'.  
-step2. Modify the image path and name in corresponding algorithm file (`checkboard_calibrate.py`, `horizontal_expansion_calibrate.py`, `latitude_calibrate.py`, `longitude_calibrate.py`)  
-step3. View the output image in corresponding subfolder under folder 'output_images'
+step2. Modify the image path and name in corresponding algorithm file (`checkboard_calibrate.py`, `horizontal_expansion_calibrate.py`, `latitude_calibrate.py`, `longitude_calibrate.py`).  
+step3. View the output image in corresponding subfolder under folder 'output_images'.
