@@ -11,6 +11,8 @@ Including RAPid and some traditional algorithms (checkboard, horizontal expansio
 'Traditional_methods': Four different traditional algorithms.  
 
 
-## Run RAPiD algorithm Demo (Using image):
-
+## Run RAPiD algorithm Demo (Using single image):
+step1. Put source image in folder 'input_images'.
+step2. Modify the image path and name in 'example.py' and run it.  
+step3. View the output image in folder 'output_images/output_RAPiD'
 
