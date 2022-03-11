@@ -1,6 +1,6 @@
 # fish-eyes
 
-We collected some algorithms for fish eye image de distortion.  
+We collected some algorithms for fisheye image distortion correction and human detection on fisheye images .  
 Including RAPiD and some traditional algorithms (checkboard, horizontal expansion, latitude, longitude).
 
 ## Folder Structure
@@ -18,6 +18,7 @@ The code should be able to work as long as you have the following packages:
 - numpy
 - opencv-python  
 - PIL
+- matplotlib
 - shutil
 - imutils
 - tqdm
